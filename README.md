@@ -7,7 +7,7 @@ This Project utilizes yahoo api to fetch historic stock market data and predicts
 recurrent neural network and machine learning.
 
 (web interface with streamlit will be added soon)
-(this is project is part of hackthon submission on https://app.daisi.io/sections/a1c776a2-9596-4c64-8b89-4e744d2063a0)
+(this project is part of hackthon submission on https://app.daisi.io/sections/a1c776a2-9596-4c64-8b89-4e744d2063a0)
 
 
 
