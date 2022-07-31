@@ -4,7 +4,7 @@ import pandas as pd
 import pandas_datareader as web
 import datetime as dt
 import yfinance as yf
-import pickle
+
 
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
@@ -63,7 +63,6 @@ model.fit(x_train, y_train, batch_size=10, epochs=5)
 
 
 
-# saving the model using pickle
 
 # saving_model = pickle.dumps(model)
 model.save('testmodel.h5')
